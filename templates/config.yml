@@ -1,0 +1,8 @@
+name: # The name of the Catalog entry
+description: |
+  # A description of the Catalog entry
+version: #The default version of the package to use (must match any folder in the rancher-compose version)
+category: # The category to use when searching for Catalog entries
+maintainer: # The maintainer of the Catalog entry
+license: # The license
+projectURL: # The URL related to the Catalog entry
